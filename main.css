@@ -1,0 +1,33 @@
+/* body {
+  text-align: center;
+  padding: 50px;
+  color: white;
+  background-size: cover;
+}
+button {
+  margin: 20px;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+}
+#shoot {
+  background-color: red;
+}
+#reset {
+  background-color: green;
+}
+h1 {
+  font-size: 3em;
+}
+h3 {
+  padding-top: 20px;
+  font-size: 2.5vh;
+}
+#shipCollection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 80px;
+  height: 20vw;
+} */
